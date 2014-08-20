@@ -5,7 +5,7 @@ Nauhoitin skriptin avulla voi kätevästi nauhoittaa televisiosta tulevia
 ohjelmia.
 
 Kanavien IP-osoitteet toimivat ainakin itselläni ;), pääkaupunkiseudun Sonera
-KotiTV -taloudessa. Skripti muuten voi toimia myös esim Elisan verkossa.
+KotiTV -taloudessa. Skripti voi toimia myös esim Elisan verkossa.
 Mikäli kanavat/IP-osoitteet ovat eri, niin ne pitää tietysti vaihtaa.
 
 Vaatii toimiakseen
