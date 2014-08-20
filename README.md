@@ -14,9 +14,13 @@ Vaatii toimiakseen
 * cvlc
 * bash
 
+* Sonera KotiTV sekä nettipiuha koneeseen (ei toimi perus boxilla langattomana)
+
 Käyttö
 ------
-`./nauhoita.sh -c tv1 -t '2014-12-24 12:00' -d 0.30 -f julistus.ts`
+```
+./nauhoita.sh -c tv1 -t '2014-12-24 12:00' -d 0.30 -f julistus.ts
+```
 
 * Nauhoitettava kanava YLE TV 1
 * Ajankohta 24. joulukuuta 2014 kello 12:00
