@@ -8,12 +8,14 @@ Kanavien IP-osoitteet toimivat ainakin itselläni ;), pääkaupunkiseudun Sonera
 KotiTV -taloudessa. Skripti muuten voi toimia myös esim Elisan verkossa.
 Mikäli kanavat/IP-osoitteet ovat eri, niin ne pitää tietysti vaihtaa.
 
-h3. Vaatii toimiakseen
+Vaatii toimiakseen
+------------------
 
 * cvlc
 * bash
 
-h3. Käyttö
+Käyttö
+------
 `./nauhoita.sh -c tv1 -t '2014-12-24 12:00' -d 0.30 -f julistus.ts`
 
 * Nauhoitettava kanava YLE TV 1
@@ -21,11 +23,13 @@ h3. Käyttö
 * Nauhtoituksen kesto 30 minuuttia
 * Tallennetaan tiedostoon julistus.ts
 
-h3. Lisenssi
+Lisenssi
+--------
 
 GNU General Public License v3
 
 Vapaasti muokkaamaan ja kehittämään ;)
 
-h3. Tekijä
+Tekijä
+------
 * Juho Vähäkangas < vahakangas at gmail com >
