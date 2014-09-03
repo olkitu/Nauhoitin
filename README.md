@@ -19,7 +19,7 @@ Vaatii toimiakseen
 Käyttö
 ------
 ```
-./nauhoita.sh -c tv1 -t '2014-12-24 12:00' -d 0.30 -f julistus.ts
+./nauhoita.sh -c tv1 -t '2014-12-24 12:00' -d 0:30 -f julistus.ts
 ```
 
 * Nauhoitettava kanava YLE TV 1
