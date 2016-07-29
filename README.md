@@ -11,7 +11,7 @@ Mikäli kanavat/IP-osoitteet ovat eri, niin ne pitää tietysti vaihtaa.
 Vaatii toimiakseen
 ------------------
 
-* cvlc
+* cvlc  (vlc)
 * bash
 
 * Sonera Viihde sekä nettipiuha koneeseen (ei toimi perus boxilla langattomana)
