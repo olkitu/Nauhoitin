@@ -54,15 +54,22 @@ function channel() {
 	tv2) _channel="udp://@239.16.116.2:5555" ;;
 	mtv3) _channel="udp://@239.16.116.3:5555" ;;
 	nelonen) _channel="udp://@239.16.116.4:5555" ;;
-	fst5) _channel="udp://@239.16.116.5:5555" ;;
+	fen) _channel="udp://@239.16.116.5:5555" ;;
 	sub) _channel="udp://@239.16.116.6:5555" ;;
-	urheilu) _channel="udp://@239.16.116.7:5555" ;;
+	teema) _channel="udp://@239.16.116.7:5555" ;;
 	liv) _channel="udp://@239.16.116.8:5555" ;;
 	kutonen) _channel="udp://@239.16.116.10:5555" ;;
-	taivas) _channel="udp://@239.16.116.11:5555" ;;
 	fox) _channel="udp://@239.16.116.12:5555" ;;
 	tv5) _channel="udp://@239.16.116.13:5555" ;;
 	jim) _channel="udp://@239.16.116.14:5555" ;;
+	ava) _channel="udp://@239.16.117.145:5555" ;;
+	hero) _channel="udp://@239.16.117.143:5555" ;;
+	bloomberg) _channel="udp://@239.16.117.142:5555" ;;
+	tv7) _channel="udp://@239.16.116.11:5555" ;;
+	tv1hd) _channel="udp://@239.16.117.146:5555" ;;
+	tv2hd) _channel="udp://@239.16.117.147:5555" ;;
+	femhd) _channel="udp://@239.16.117.148:5555" ;;
+	teemahd) _channel="udp://@239.16.117.149:5555" ;;
 
 	help|*) 
 	    _channel="";
@@ -73,14 +80,22 @@ Kanavavaihtoehdot ovat:
  tv2
  mtv3
  nelonen
- fst5
+ fem
  sub
- urheilu
+ teema
+ liv
  jim
  kutonen
- taivas
  fox
- viisi
+ tv5
+ ava
+ hero
+ bloomberg
+ tv7
+ tv1hd
+ tv2hd
+ femhd
+ teemahd
  
 ";;
 	esac
