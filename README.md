@@ -5,7 +5,7 @@ Nauhoitin skriptin avulla voi kätevästi nauhoittaa televisiosta tulevia
 ohjelmia.
 
 Kanavien IP-osoitteet toimivat ainakin itselläni ;), pääkaupunkiseudun Sonera
-KotiTV -taloudessa. Skripti voi toimia myös esim Elisan verkossa.
+Viihde -taloudessa. Skripti voi toimia myös esim Elisan verkossa.
 Mikäli kanavat/IP-osoitteet ovat eri, niin ne pitää tietysti vaihtaa.
 
 Vaatii toimiakseen
@@ -14,7 +14,7 @@ Vaatii toimiakseen
 * cvlc
 * bash
 
-* Sonera KotiTV sekä nettipiuha koneeseen (ei toimi perus boxilla langattomana)
+* Sonera Viihde sekä nettipiuha koneeseen (ei toimi perus boxilla langattomana)
 
 Käyttö
 ------
