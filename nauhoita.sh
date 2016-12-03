@@ -54,7 +54,7 @@ function channel() {
 	tv2) _channel="udp://@239.16.116.2:5555" ;;
 	mtv3) _channel="udp://@239.16.116.3:5555" ;;
 	nelonen) _channel="udp://@239.16.116.4:5555" ;;
-	fen) _channel="udp://@239.16.116.5:5555" ;;
+	fem) _channel="udp://@239.16.116.5:5555" ;;
 	sub) _channel="udp://@239.16.116.6:5555" ;;
 	teema) _channel="udp://@239.16.116.7:5555" ;;
 	liv) _channel="udp://@239.16.116.8:5555" ;;
